@@ -1,6 +1,6 @@
 package com.bridgelabz;
 
-public class MaxComputation {
+public class Refactor1 {
     public static <T extends Comparable<T>> T maximum(T x, T y, T z) {
         T max = x;
 

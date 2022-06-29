@@ -16,7 +16,6 @@ public class MaxInteger {
         System.out.println("The maximum number is: " + maximumNumber);
     }
 
-
     public static void main(String[] args) {
 
         Integer firstNumber = 1, secondNumber = 2, thirdNumber = 3;
